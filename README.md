@@ -2,8 +2,9 @@
 Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Human Expertise for Visual Miss Correction
 
 
-<img width="800" alt="Screenshot 2024-01-20 at 12 24 57 AM" src="https://github.com/a04101999/CoRaX-Collaborative-radiology-xpert-/assets/30754423/b86db475-3946-4b5c-8baf-5900a0f25380">
 
+
+<img width="1008" alt="Screenshot 2024-01-20 at 1 53 56 AM" src="https://github.com/a04101999/CoRaX-Collaborative-radiology-xpert-/assets/30754423/67034d3b-70be-49f8-abd3-f1ea5ae9547c">
 
 
 
