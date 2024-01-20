@@ -15,8 +15,8 @@ Chexformer model Pretrained model
 Chexformer Dataset [ Train & Val ]
 
 ### Training Chexformer 
-
+```
 python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --dataroot data/
-
+```
 
    
