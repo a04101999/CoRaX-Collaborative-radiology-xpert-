@@ -18,5 +18,9 @@ Chexformer Dataset [ Train & Val ]
 ```
 python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --dataroot data/
 ```
+#### Evaluating Chexformer
 
+```
+python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --dataroot data/ --inference --saved_model_name=''
+```
    
