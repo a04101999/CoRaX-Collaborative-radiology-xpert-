@@ -30,7 +30,7 @@ python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --datar
 ```
 python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --dataroot data/ --inference --saved_model_name=''
 ```
-##Temporal Grounding Predictor ( TGP )
+## Temporal Grounding Predictor ( TGP )
 
 TGP module is trained on the combination of REFLACX and Egd-cxr. We provide the detailed discription and download link for the pre-processed dataset on the Data readme file. We provide the pre-trained model for TGP below 
 
