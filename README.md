@@ -41,3 +41,7 @@ TGP module is trained on the combination of REFLACX and Egd-cxr. We provide the 
 python -m torch.distributed.launch --nproc_per_node 8 --use_env dvc.py --epochs=100 --lr=3e-4 --save_dir=vit --batch_size=2 --batch_size_val=2 --schedule="cosine_with_warmup"
 
 ```
+## CoRaX 
+
+To run the CoRaX on the Error dataset please run the following command. It uses the pretrained Chexformer and TGP which is provided on the above link. Please download from there.
+
