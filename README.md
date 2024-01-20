@@ -11,8 +11,8 @@ Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Hu
 
 Orginally Chexformer is trained on the Chexpert Dataset and we provide the pretrained chexformer model below. We also provide a sample of dataset for training and testing the Chexformer on the below link 
 
-Chexformer model Pretrained model 
-Chexformer Dataset [ Train & Val ]
+1) Chexformer model Pretrained model 
+2) Chexformer Dataset [ Train & Val ]
 
 ### Training Chexformer 
 ```
