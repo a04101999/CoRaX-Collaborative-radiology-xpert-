@@ -7,7 +7,7 @@ Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Hu
 1) Chexformer
 2) Temporal Grounding Predictor ( TGP )
 
-#Chexformer
+## Chexformer
 
 Orginally Chexformer is trained on the Chexpert Dataset and we provide the pretrained chexformer on the 
 
