@@ -55,7 +55,17 @@ python -m torch.distributed.launch --nproc_per_node 8 --use_env dvc.py --epochs=
 ```
 ## CoRaX 
 
-To run the CoRaX on the Error dataset please run the following command. It uses the pretrained Chexformer and TGP which is provided on the above link. Please download from there.
+To run the CoRaX on the Error dataset please run the following command. It uses the pretrained Chexformer and STARE which is provided on the above link. Please download from there.
+
+STARE
+
+https://drive.google.com/drive/folders/1GsH81Bq_YTCXzIkuLD9hXRpvfIW4O4Mz?usp=sharing
+
+ChexFormer
+
+https://drive.google.com/drive/folders/1GsH81Bq_YTCXzIkuLD9hXRpvfIW4O4Mz?usp=sharing
+
+
 
 Error Dataset with missing abnormalities mentioned in table-1 
 
