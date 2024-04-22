@@ -67,9 +67,9 @@ https://drive.google.com/drive/folders/1GsH81Bq_YTCXzIkuLD9hXRpvfIW4O4Mz?usp=sha
 
 
 
-Error Dataset with missing abnormalities mentioned in table-1 
+Error Dataset with missing abnormalities mentioned in table-1.  All the results are calculated on this error dataset
 
 https://drive.google.com/file/d/1nICzyEwjQjBADP3uwfzxRfP42tfEZABe/view?usp=sharing
 
-All the results are calculated on this error dataset
+
 
