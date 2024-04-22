@@ -47,3 +47,9 @@ python -m torch.distributed.launch --nproc_per_node 8 --use_env dvc.py --epochs=
 
 To run the CoRaX on the Error dataset please run the following command. It uses the pretrained Chexformer and TGP which is provided on the above link. Please download from there.
 
+Error Dataset with missing abnormalities mentioned in table-1 
+
+https://drive.google.com/file/d/1nICzyEwjQjBADP3uwfzxRfP42tfEZABe/view?usp=sharing
+
+All the results are calculated on this error dataset
+
