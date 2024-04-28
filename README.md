@@ -59,11 +59,10 @@ To run the CoRaX on the Error dataset please run the following command. It uses 
 
 STARE
 
-https://drive.google.com/drive/folders/1GsH81Bq_YTCXzIkuLD9hXRpvfIW4O4Mz?usp=sharing
+https://drive.google.com/file/d/17fPfag9rBNmHMdFrwWIIfWUX6OKbjWZ9/view?usp=sharing
 
 ChexFormer
 
-https://drive.google.com/drive/folders/1GsH81Bq_YTCXzIkuLD9hXRpvfIW4O4Mz?usp=sharing
 
 
 
