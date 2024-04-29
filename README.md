@@ -7,7 +7,9 @@ Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Hu
 <img width="1008" alt="Screenshot 2024-01-20 at 1 53 56 AM" src="https://github.com/a04101999/CoRaX-Collaborative-radiology-xpert-/assets/30754423/67034d3b-70be-49f8-abd3-f1ea5ae9547c">
 
 
+# Important:  Download the Error Dataset Files here:
 
+https://drive.google.com/drive/folders/1h9ZoITAITS_mvGjyZi8dHUpo8dMn_tHz?usp=sharing
 
 ## CoRaX contains two Trainable  modules:
 
