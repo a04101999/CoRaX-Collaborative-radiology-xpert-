@@ -69,7 +69,7 @@ python -m torch.distributed.launch --nproc_per_node 8 --use_env dvc.py --epochs=
 ```
 ## CoRaX 
 
-To run the CoRaX on the Error dataset please use the . It uses the pretrained Chexformer and STARE which is provided on the above link. Please download from there.
+To run the CoRaX on the Error dataset please use the Notebook uploaded above  ## CoRaX-Errror_correction_final_file.ipynb ## . It uses the pretrained Chexformer and STARE which is provided on the above link. Please download from there.
 
 #### STARE
 
