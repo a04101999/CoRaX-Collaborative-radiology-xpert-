@@ -47,6 +47,8 @@ STARE module is trained on the combination of REFLACX and Egd-cxr. We provide th
       
     - Ground Truth Summarized  Reports:
   
+      https://drive.google.com/file/d/1io2FGE2IC1LtLmFWLO3yIB9BAq5SNKzL/view?usp=sharing
+  
     - Input Summarized  Reports:
 
       
