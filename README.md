@@ -44,7 +44,7 @@ STARE module is trained on the combination of REFLACX and Egd-cxr. We provide th
 1) STARE ( Pretrained model ):
 
    
-3) Sample Training Data
+3) Sample Training Data (Not full )
    
     - Extracted Video spatial features:  Frame features extracted by clipvit(spatial encoder )  can be downloaded below for the STARE module [ Train + Test]
       
