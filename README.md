@@ -67,7 +67,7 @@ https://drive.google.com/file/d/1SJeXGdqveZerVSfHEFRsxVo3TPY1FoId/view?usp=shari
 
 #### Error Dataset with missing abnormalities mentioned in table-1.  All the results are calculated on this error dataset
 
-https://drive.google.com/file/d/1nICzyEwjQjBADP3uwfzxRfP42tfEZABe/view?usp=sharing
+https://drive.google.com/drive/folders/1h9ZoITAITS_mvGjyZi8dHUpo8dMn_tHz?usp=sharing
 
 ##### All the results in the paper is produced in  the below predictions by CoRaX:
 
