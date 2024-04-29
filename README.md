@@ -41,15 +41,17 @@ STARE module is trained on the combination of REFLACX and Egd-cxr. We provide th
    
 3) Sample Training Data
    
-    - Extracted Video spatial features:  Frame features extracted by clipvit(spatial encoder )  can be downloaded below for the STARE module
+    - Extracted Video spatial features:  Frame features extracted by clipvit(spatial encoder )  can be downloaded below for the STARE module [ Train + Test]
       
       https://drive.google.com/file/d/1rwNMLTfh0twaSlIqu9vY93OTFb1GT1kL/view?usp=drive_link
       
-    - Ground Truth Summarized  Reports:
+    - Ground Truth Summarized  Reports: [Only Train]
   
       https://drive.google.com/file/d/1io2FGE2IC1LtLmFWLO3yIB9BAq5SNKzL/view?usp=sharing
   
-    - Input Summarized  Reports:
+    - Input Summarized  Reports:[Only Train]
+  
+      https://drive.google.com/file/d/116pd5J2UZWykJqFZ4NLejxtZBkAD65ve/view?usp=sharing
 
       
    
