@@ -71,7 +71,7 @@ https://drive.google.com/file/d/1SJeXGdqveZerVSfHEFRsxVo3TPY1FoId/view?usp=shari
 
 https://drive.google.com/drive/folders/1h9ZoITAITS_mvGjyZi8dHUpo8dMn_tHz?usp=sharing
 
-##### All the results in the paper is produced in  the below predictions by CoRaX:
+##### All the results in the paper is produced using  the below predictions by CoRaX:
 
 https://drive.google.com/file/d/1XK9AoiXHKegUTQPK8mZW1VGfRCjySgnR/view?usp=sharing
 
