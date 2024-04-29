@@ -20,8 +20,13 @@ https://drive.google.com/drive/folders/1h9ZoITAITS_mvGjyZi8dHUpo8dMn_tHz?usp=sha
 
 Orginally Chexformer is trained on the Chexpert Dataset and we provide the pretrained chexformer model below. We also provide a sample of dataset for training and testing the Chexformer on the below link 
 
-1) Chexformer model Pretrained model 
+1) Chexformer model Pretrained model
+
+   https://drive.google.com/file/d/1SJeXGdqveZerVSfHEFRsxVo3TPY1FoId/view?usp=sharing
+   
 2) Chexformer Dataset [ Train & Val ]
+
+   https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2
 
 ### Training Chexformer 
 ```
