@@ -39,7 +39,7 @@ python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --datar
 ```
 ## Spatio-Temporal Abnormal Region Extractor (STARE  )
 
-STARE module is trained on the combination of REFLACX and Egd-cxr. We provide the detailed discription and download link for the pre-processed dataset on the Data readme file. We provide the pre-trained model for STARE below 
+STARE module is trained on the  REFLACX and Egd-cxr. We provide the detailed discription and download link for the pre-processed dataset on the Data readme file. We provide the pre-trained model for STARE below 
 
 1) STARE ( Pretrained model ):
 
