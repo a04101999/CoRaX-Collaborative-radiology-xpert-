@@ -24,10 +24,10 @@ Orginally Chexformer is trained on the Chexpert Dataset and we provide the pretr
 
    https://drive.google.com/file/d/1SJeXGdqveZerVSfHEFRsxVo3TPY1FoId/view?usp=sharing
    
-2) Chexformer Dataset [ Train & Val ]
+2) Chexformer Dataset [ Train & Val ] 
 
    https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2
-   
+   It is always recommended to train Chexformer with the five lables that are used  in CoRaX
 
 ### Training Chexformer 
 ```
