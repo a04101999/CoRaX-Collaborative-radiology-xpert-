@@ -27,7 +27,8 @@ Orginally Chexformer is trained on the Chexpert Dataset and we provide the pretr
 2) Chexformer Dataset [ Train & Val ] 
 
    https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2
-   It is always recommended to train Chexformer with the five lables that are used  in CoRaX
+
+    It is recommended to train Chexformer with the five lables ( Cardiomegaly, Pleural Effusion, Lung Opacity, Atelectasis, Edema ) that are used  in CoRaX for better performence 
 
 ### Training Chexformer 
 ```
