@@ -82,7 +82,8 @@ https://drive.google.com/file/d/1SJeXGdqveZerVSfHEFRsxVo3TPY1FoId/view?usp=shari
 
 #### Error Datasets with missing abnormalities mentioned in table-1.  All the results are calculated on these error datasets
 
-Note: There is always a lot of inter observer variation among radiologist especially for Atelectasis, Edema and Pneumonia. During evaluation, Please carefully evaluate the lung opacity referral since our code evaluation is based on word matching therefore is good to also include the word like Densities, opacities, lung haziness in thw word matching for lung opacity.
+Note: There is always a lot of inter-observer variation among radiologists especially for Atelectasis, Edema and Pneumonia. During evaluation, Please carefully evaluate the lung opacity referral since our code evaluation is based on word matching therefore it is good to also include the word like Densities, opacities, lung haziness in the word matching for lung opacity.
+Sometimes, In case of edema and atlectasis , Model output the Lung opacity as referral for same region of atelectasis and edema. We consider those referral as correct since lung opacity cases can be associated with both atelectasis and pulmonary edema.
 
 ##### Random-Making based error Dataset
 
