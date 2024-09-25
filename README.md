@@ -82,7 +82,9 @@ https://drive.google.com/file/d/1SJeXGdqveZerVSfHEFRsxVo3TPY1FoId/view?usp=shari
 
 #### Error Datasets with missing abnormalities mentioned in table-1.  All the results are calculated on these error datasets
 
-##### Random Making based error Dataset
+Note: There is always a lot of inter observer variation among radiologist especially for Atelectasis, Edema and Pneumonia. During evaluation, Please carefully evaluate the lung opacity referral since our code evaluation is based on word matching therefore is good to also include the word like Densities, opacities, lung haziness in thw word matching for lung opacity.
+
+##### Random-Making based error Dataset
 
 https://drive.google.com/drive/folders/1h9ZoITAITS_mvGjyZi8dHUpo8dMn_tHz?usp=sharing
 
