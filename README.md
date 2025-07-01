@@ -107,6 +107,12 @@ https://drive.google.com/file/d/1XK9AoiXHKegUTQPK8mZW1VGfRCjySgnR/view?usp=shari
 https://drive.google.com/file/d/1B0CE2aDndd_sWrRNZOkp2Lk85fGOrsIq/view?usp=sharing
 
 
+# References
+
+Awasthi, A., Le, N., Deng, Z., Agrawal, R., Wu, C.C. and Van Nguyen, H., 2024. Bridging human and machine intelligence: Reverse-engineering radiologist intentions for clinical trust and adoption. Computational and Structural Biotechnology Journal, 24, pp.711-723.
+
+
+Awasthi, A., Ahmad, S., Le, B. and Nguyen, H., 2024, May. Decoding Radiologists’ Intentions: A Novel System for Accurate Region Identification in Chest X-Ray Image Analysis. In 2024 IEEE International Symposium on Biomedical Imaging (ISBI) (pp. 1-5). IEEE.
 
 
 
