@@ -108,6 +108,7 @@ https://drive.google.com/file/d/1B0CE2aDndd_sWrRNZOkp2Lk85fGOrsIq/view?usp=shari
 
 
 # References
+Thanks to all these cool works. Our STARE submodule module is inspired with the below works
 
 Awasthi, A., Le, N., Deng, Z., Agrawal, R., Wu, C.C. and Van Nguyen, H., 2024. Bridging human and machine intelligence: Reverse-engineering radiologist intentions for clinical trust and adoption. Computational and Structural Biotechnology Journal, 24, pp.711-723.
 
