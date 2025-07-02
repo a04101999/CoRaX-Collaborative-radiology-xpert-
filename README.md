@@ -1,6 +1,6 @@
 [Under developement]
 
-This repository contains research software released as part of a **proof-of-concept study** Accepted in *Radiology: Artificial Intelligence* Journal.
+This repository contains research software as part of a **proof-of-concept study** Accepted in *Radiology: Artificial Intelligence* Journal.
 
 The pretrained models and sample error data provided here correspond to our Accepted work in Radiology: Artificial Intelligence Journal.
 
