@@ -1,4 +1,6 @@
 [Under developement]
+
+No Commercial use of this repository is allowed. Error Data, pretrained models are released here.
 # CoRaX-Collaborative-radiology-xpert-
 Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Human Expertise for Visual Miss Correction
 
