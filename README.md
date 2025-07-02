@@ -116,5 +116,7 @@ Awasthi, A., Le, N., Deng, Z., Agrawal, R., Wu, C.C. and Van Nguyen, H., 2024. B
 
 Awasthi, A., Ahmad, S., Le, B. and Nguyen, H., 2024, May. Decoding Radiologists’ Intentions: A Novel System for Accurate Region Identification in Chest X-Ray Image Analysis. In 2024 IEEE International Symposium on Biomedical Imaging (ISBI) (pp. 1-5). IEEE.
 
+Yang, A., Nagrani, A., Seo, P.H., Miech, A., Pont-Tuset, J., Laptev, I., Sivic, J. and Schmid, C., 2023. Vid2seq: Large-scale pretraining of a visual language model for dense video captioning. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10714-10726).
+
 
 
