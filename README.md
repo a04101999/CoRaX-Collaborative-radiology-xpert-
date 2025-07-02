@@ -105,7 +105,7 @@ https://drive.google.com/file/d/1B0CE2aDndd_sWrRNZOkp2Lk85fGOrsIq/view?usp=shari
 
 
 # References
-Thanks to all these cool works. Our STARE submodule is inspired with the below works
+Thanks to all these cool works. Our STARE submodule is inspired with the below works:
 
 Awasthi, A., Le, N., Deng, Z., Agrawal, R., Wu, C.C. and Van Nguyen, H., 2024. Bridging human and machine intelligence: Reverse-engineering radiologist intentions for clinical trust and adoption. Computational and Structural Biotechnology Journal, 24, pp.711-723.
 
@@ -114,5 +114,5 @@ Awasthi, A., Ahmad, S., Le, B. and Nguyen, H., 2024, May. Decoding Radiologistsâ
 
 Yang, A., Nagrani, A., Seo, P.H., Miech, A., Pont-Tuset, J., Laptev, I., Sivic, J. and Schmid, C., 2023. Vid2seq: Large-scale pretraining of a visual language model for dense video captioning. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10714-10726).
 
-
+Lanchantin, J., Wang, T., Ordonez, V. and Qi, Y., 2021. General multi-label image classification with transformers. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 16478-16488).
 
