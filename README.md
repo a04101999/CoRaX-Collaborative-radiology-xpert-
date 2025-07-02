@@ -1,6 +1,12 @@
 [Under developement]
 
-No Commercial use of this repository is allowed. Error Data, pretrained models are released here.
+Note: This repository is provided for research and educational use only. Commercial use is prohibited.
+
+The pretrained models and sample error data provided here correspond to our Accepted work in Radiology: Artificial Intelligence.
+
+🧪 This software is currently under prospective clinical validation.
+
+
 # CoRaX-Collaborative-radiology-xpert-
 Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Human Expertise for Visual Miss Correction
 
