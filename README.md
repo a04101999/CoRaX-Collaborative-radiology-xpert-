@@ -9,7 +9,7 @@ The pretrained models and sample error data provided here correspond to our Acce
 
 We are working on extending it for future radiology education and other real time user studies. Please contact the corresponding author for collaboration.
 
-akashcseklu123@fmail.com
+akashcseklu123@gmail.com
 
 
 # CoRaX-Collaborative-radiology-xpert-
