@@ -29,17 +29,10 @@ Orginally Chexformer is trained on the Chexpert Dataset and we provide the pretr
 
    https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2
 
-    It is recommended to train Chexformer with the five lables ( Cardiomegaly, Pleural Effusion, Lung Opacity, Atelectasis, Edema ) that are used  in CoRaX for better performence. You can use the 14 labels as well based on the need of your study
+Chexformer is trained with the five lables ( Cardiomegaly, Pleural Effusion, Lung Opacity, Atelectasis, Edema ) that are used  in CoRaX for better performence. You can use the 14 labels as well based on the need of your study
 
-### Training Chexformer 
-```
-python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --dataroot data/
-```
-### Evaluating Chexformer
 
-```
-python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --dataroot data/ --inference --saved_model_name=''
-```
+
 ## Spatio-Temporal Abnormal Region Extractor (STARE  )
 
 STARE module is trained on the  REFLACX and Egd-cxr. We provide the detailed discription and download link for the pre-processed dataset on the Data readme file. We provide the pre-trained model for STARE below 
@@ -63,13 +56,8 @@ STARE module is trained on the  REFLACX and Egd-cxr. We provide the detailed dis
 
       
    
+We are also working on the user-study with this system in future so the code for STARE and CheXformer is kept for future release 
 
-### Training STARE
-
-```
-python -m torch.distributed.launch --nproc_per_node 8 --use_env dvc.py --epochs=100 --lr=3e-4 --save_dir=vit --batch_size=2 --batch_size_val=2 --schedule="cosine_with_warmup"
-
-```
 ## CoRaX 
 
 To run the CoRaX on the Error dataset please use the Notebook uploaded above  ## CoRaX-Errror_correction_final_file.ipynb ## . It uses the pretrained Chexformer and STARE which is provided on the below link. Please download from there.
