@@ -2,7 +2,7 @@
 
 Note: This repository is provided for research and educational use only. Commercial use is prohibited.
 
-The pretrained models and sample error data provided here correspond to our Accepted work in Radiology: Artificial Intelligence.
+The pretrained models and sample error data provided here correspond to our Accepted work in Radiology: Artificial Intelligence Journal.
 
 🧪 This software is currently under prospective clinical validation.
 
