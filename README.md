@@ -1,10 +1,13 @@
 [Under developement]
 
-Note: This repository is provided for research and educational use only. Commercial use is prohibited.
+This repository contains research software released as part of a **proof-of-concept study** Accepted in *Radiology: Artificial Intelligence*.
 
 The pretrained models and sample error data provided here correspond to our Accepted work in Radiology: Artificial Intelligence Journal.
 
-🧪 This software is currently under prospective clinical validation and user studies.
+🧪 This software is intended **solely for research and educational purposes**.  
+🚫 It is **not for clinical use**, diagnosis, or patient care.
+
+We are working on extending it for future radiology education and other real time user studies.
 
 
 # CoRaX-Collaborative-radiology-xpert-
