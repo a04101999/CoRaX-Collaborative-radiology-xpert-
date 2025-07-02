@@ -56,7 +56,7 @@ STARE module is trained on the  REFLACX and Egd-cxr. We provide the detailed dis
 
       
    
-We are also working on the user-study with this system in future so the code for STARE and CheXformer is kept for future release 
+We are also working on the user-study with this system in future so the code for STARE and CheXformer is kept for future release.
 
 ## CoRaX 
 
