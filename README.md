@@ -4,7 +4,7 @@ Note: This repository is provided for research and educational use only. Commerc
 
 The pretrained models and sample error data provided here correspond to our Accepted work in Radiology: Artificial Intelligence Journal.
 
-🧪 This software is currently under prospective clinical validation.
+🧪 This software is currently under prospective clinical validation and user studies.
 
 
 # CoRaX-Collaborative-radiology-xpert-
