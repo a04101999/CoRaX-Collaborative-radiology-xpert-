@@ -7,7 +7,9 @@ The pretrained models and sample error data provided here correspond to our Acce
 🧪 This software is intended **solely for research and educational purposes**.  
 🚫 It is **not for clinical use**, diagnosis, or patient care.
 
-We are working on extending it for future radiology education and other real time user studies.
+We are working on extending it for future radiology education and other real time user studies. Please contact the corresponding author for collaboration.
+
+akashcseklu123@fmail.com
 
 
 # CoRaX-Collaborative-radiology-xpert-
