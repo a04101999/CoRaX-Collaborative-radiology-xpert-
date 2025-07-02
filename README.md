@@ -84,7 +84,7 @@ https://drive.google.com/file/d/1SJeXGdqveZerVSfHEFRsxVo3TPY1FoId/view?usp=shari
 
 #### Error Datasets with missing abnormalities mentioned in table-1.  All the results are calculated on these error datasets
 
-Note: There is always a lot of inter-observer variation among radiologists especially for Atelectasis, Edema and Pneumonia[ref]. Therefore the evaluation of CoRaX is very subjective. During evaluation, Please carefully evaluate the lung opacity referral since our code evaluation is based on word matching therefore it is good to also include the word like Densities, opacities, lung haziness, consolidation in the word matching for lung opacity.
+Note for real time Use-Case: There is always a lot of inter-observer variation among radiologists especially for Atelectasis, Edema and Pneumonia[ref]. Therefore the evaluation of CoRaX is very subjective. During evaluation, Please carefully evaluate the lung opacity referral since our code evaluation is based on word matching therefore it is good to also include the word like Densities, opacities, lung haziness, consolidation in the word matching for lung opacity.
 Sometimes, In case of pneumonia, atlectasis and edema , Model output the Lung opacity as referral for same region of atelectasis, pneumonia edema. Consider those referral as correct since lung opacity cases can be associated with both atelectasis, consolidation , pneumonia, edema.
 
 Ref: 'https://pubs.rsna.org/doi/full/10.1148/ryai.2019180041'
