@@ -4,7 +4,7 @@
 
 The pretrained models and sample error data provided here correspond to our Accepted work in Radiology: Artificial Intelligence Journal.
 
-🧪 This software is intended **solely for research and educational purposes**.  
+🧪 This work is intended **solely for research and educational purposes**.  
 🚫 It is **not for clinical use**,commercial use, diagnosis, or patient care.
 
 We are working on extending it for future radiology education and other real time user studies. Please contact the corresponding author for collaboration.
